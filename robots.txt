@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maderahvacco.com/sitemap.xml
